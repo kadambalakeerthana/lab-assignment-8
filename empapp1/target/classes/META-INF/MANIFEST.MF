@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Empapp1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kadambala.keerthana
+Implementation-Vendor-Id: com.empapp
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/Empapp1
+Created-By: Maven Integration for Eclipse
+
